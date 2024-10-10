@@ -1,1 +1,3 @@
-create a tex.tex file
+create a tex
+
+.tex file
